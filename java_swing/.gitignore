@@ -1,0 +1,48 @@
+# NetBeans específico
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Archivos compilados de Java
+*.class
+
+# Archivos de log
+*.log
+
+# Archivos de BlueJ
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Archivos JAR de paquetes
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Archivos específicos de NetBeans
+nbactions.xml
+nb-configuration.xml
+
+# Logs de máquina virtual
+hs_err_pid*
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Configuraciones del IDE
+.vscode/
+.idea/
+
+# Archivos de backup
+*~
+*.swp
+*.bak
